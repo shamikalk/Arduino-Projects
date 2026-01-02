@@ -1,6 +1,6 @@
-# Smart Waste Segregator ♻️
+# Dry Wet Waste Segregator Dustbin ♻️
 
-The **Smart Waste Segregator** is an automated system designed to detect and separate **dry** and **wet waste** using an **ultrasonic sensor** and a **soil moisture sensor**.  
+The **Dry Wet Waste Segregator Dustbin** is an automated system designed to detect and separate **dry** and **wet waste** using an **ultrasonic sensor** and a **soil moisture sensor**.  
 This project helps improve waste management efficiency, reduces manual effort, and promotes better hygiene.
 
 ---
@@ -19,17 +19,17 @@ This project is ideal for **smart city**, **IoT**, and **automation** based wast
 
 ## 🧰 Components Required
 
-- 1 × Arduino UNO Board  
-- 1 × Servo Motor  
-- 1 × Soil Moisture Sensor  
-- 1 × Ultrasonic Sensor (HC-SR04)  
-- 1 × Breadboard  
+- Arduino UNO Board x1
+- Servo Motor x1
+- Soil Moisture Sensor x1
+- Ultrasonic Sensor (HC-SR04) x1
+- Breadboard x1
 - Jumper Wires  
-- 1 × USB Cable  
+- USB Cable x1
 
 ---
 
-## 🖼️ Project Image
+## 🖼️ Project Diagram
 
 <p align="center">
   <img src="./Diagram.jpg" alt="Smart Waste Segregator" width="400">
