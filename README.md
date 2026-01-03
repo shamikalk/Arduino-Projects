@@ -2,11 +2,11 @@
 <!-- Hero Header with Gradient Background -->
 <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Arduino%20Projects&desc=A%20curated%20collection%20of%20Arduino%20projects&descSize=20&descAlignY=75" />
 </div>
-A curated collection of Arduino projects ranging from beginner to advanced levels. This repository contains various Arduino-based implementations, experiments, and tutorials.
+A curated collection of Arduino projects ranging from beginner to advanced levels. This repository contains various Arduino-based implementations, experiments, and circuit diagrams.
 
 ## 🚀 Introduction
 
-This repository serves as a personal collection and learning resource for Arduino projects. Each project is organized with its own documentation, schematics, and code to help enthusiasts understand and replicate the implementations.
+This repository serves as a personal collection and learning resource for Arduino projects. Each project here is a collection of resources taken from YouTube, the internet, and my own documentation. Each project file has its own code, a circuit diagram, and a README.md file that explains the project. It provides a clear understanding of the project.
 
 ---
 ## 📁 Projects List
