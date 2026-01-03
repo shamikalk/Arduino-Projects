@@ -12,13 +12,13 @@ These projects are part of a **12-in-1 Electronics Learning Kit** and are ideal 
 
 ## 🧰 Components Required
 
-- 1 x Arduino UNO Board  
-- 12 x LEDs  
-- 12 x 220 Ohm Resistors  
-- 1 x Breadboard  
+- Arduino UNO Board x 1
+- LEDs x 12
+- 220 Ohm Resistors x 12
+- Breadboard x 1
 - Jumper Wires  
-- 1 x Double Battery Holder with DC Jack & Switch  
-- 2 x 3.7 V Rechargeable Batteries  
+- Double Battery Holder with DC Jack & Switch x 1
+- 3.7 V Rechargeable Batteries x 2
 
 ---
 
@@ -28,9 +28,9 @@ The table below describes the Arduino source files included in this repository:
 
 | File Name | Description |
 |----------|-------------|
-| [`35.1.ino`](./35.1.ino) | Basic LED chaser program where LEDs turn ON and OFF sequentially from first to last. Ideal for understanding digital output basics. |
-| [`35.2.ino`](./35.2.ino) | Improved LED chaser with reverse or bidirectional movement, helping learners understand loops and timing logic. |
-| [`35.3.ino`](./35.3.ino) | Advanced LED pattern demonstrating smoother transitions and enhanced animation effects using delays and structured logic. |
+| [`Basic_Sequential_LED.ino`](./Basic_Sequential_LED.ino) | Basic LED chaser program where LEDs turn ON and OFF sequentially from first to last. Ideal for understanding digital output basics. |
+| [`Dual_Direction_Pattern.ino`](./Dual_Direction_Pattern.ino) | Improved LED chaser with reverse or bidirectional movement, helping learners understand loops and timing logic. |
+| [`Multi_Effect_LED_Controller.ino`](./Multi_Effect_LED_Controller.ino) | Advanced LED pattern demonstrating smoother transitions and enhanced animation effects using delays and structured logic. |
 
 ---
 
