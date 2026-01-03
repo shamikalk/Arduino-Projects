@@ -35,7 +35,7 @@ This is one of the **12 amazing projects** that can be built using this electron
 - Power can be supplied via USB or using the battery holder with switch.
 
 <p align="center">
-  <img src="./Diagram.jpg" alt="Smart Waste Segregator" width="400">
+  <img src="./Diagram.jpg" alt="Smart Waste Segregator" width="800">
 </p>
 
 ---
