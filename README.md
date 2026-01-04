@@ -16,6 +16,7 @@ The table below describes the Arduino source files included in this repository:
 |----------|-------------|
 | [`Dry Wet Waste Segregator Dustbin [ BinBot ]`](./Dry%20Wet%20Waste%20Segregator%20Dustbin%20[%20BinBot%20]) | The Dry Wet Waste Segregator Dustbin is an automated system designed to detect and separate dry and wet waste using an ultrasonic sensor and a soil moisture sensor. |
 | [`LED Chaser`](./LED%20Chaser) | This repository contains three Arduino LED Chaser programs designed to demonstrate different LED animation patterns using an Arduino UNO. |
+| [`Obstacle Avoiding bot`](./Obstacle%20Avoiding%20Bot) | This project demonstrates a simple Arduino-based obstacle avoiding robot using an ultrasonic sensor, servo motor, and DC motors. |
 
 ---
 ## 🛠️ Hardware Requirements
@@ -24,6 +25,7 @@ Common components used across projects:
 - Breadboard and jumper wires
 - Resistors, LEDs, sensors
 - Various modules (LCD, Bluetooth, WiFi, etc.)
+- Download Arduino IDE [Download](https://www.arduino.cc/en/software/)
 
 Specific requirements are listed in each project's folder.
 
