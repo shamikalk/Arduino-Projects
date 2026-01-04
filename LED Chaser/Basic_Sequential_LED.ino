@@ -1,3 +1,4 @@
+// LED pins definition | LED පින් අර්ථ දැක්වීම
 int LED1 = 2;
 int LED2 = 3;
 int LED3 = 4;
@@ -10,11 +11,12 @@ int LED9 = 10;
 int LED10 = 11;
 int LED11 = 12;
 int LED12 = 13;
-int t=30;
+int t=30; // Delay time in milliseconds | ප්‍රමාද කාලය මිලිතත්වලින්
 
 
 
 void setup() {
+   // Set all LED pins as OUTPUT | සියලු LED පින් OUTPUT ලෙස සකසන්න
    pinMode(LED1, OUTPUT);
    pinMode(LED2, OUTPUT);
    pinMode(LED3, OUTPUT);
@@ -30,11 +32,12 @@ void setup() {
     
 }
 
-void loop() {
+void loop(){
+// First pattern: Turn on LEDs one by one from right to left (LED12 to LED1) | පළමු නිරූපණය: LED එකින් එක දකුණේ සිට වමට (LED12 සිට LED1 දක්වා) අලුත් කරන්න
   digitalWrite(LED12, HIGH);    
   delay(t);                 
   digitalWrite(LED11, HIGH);    
-  delay(t);     
+  delay(t);                  
   digitalWrite(LED10, HIGH); 
   delay(t);                 
   digitalWrite(LED9, HIGH);  
@@ -56,7 +59,7 @@ void loop() {
   digitalWrite(LED1, HIGH);    
   delay(t);
    
-                    
+// Turn off LEDs one by one from right to left (LED12 to LED1) | LED එකින් එක දකුණේ සිට වමට (LED12 සිට LED1 දක්වා) නිවා දමන්න                  
   digitalWrite(LED12, LOW);    
   delay(t);                
   digitalWrite(LED11, LOW);    
@@ -82,6 +85,7 @@ void loop() {
   digitalWrite(LED1, LOW);    
   delay(t);
 
+// Second pattern: Turn on LEDs one by one from left to right (LED1 to LED12) | දෙවන නිරූපණය: LED එකින් එක වමේ සිට දකුණට (LED1 සිට LED12 දක්වා) අලුත් කරන්න
   digitalWrite(LED1, HIGH);    
   delay(t); 
   digitalWrite(LED2, HIGH);    
@@ -107,6 +111,7 @@ void loop() {
   digitalWrite(LED12, HIGH);  
   delay(t);
   
+// Turn off LEDs one by one from left to right (LED1 to LED12) | LED එකින් එක වමේ සිට දකුණට (LED1 සිට LED12 දක්වා) නිවා දමන්න
   digitalWrite(LED1, LOW);    
   delay(t);
   digitalWrite(LED2, LOW);    
@@ -132,6 +137,7 @@ void loop() {
   digitalWrite(LED12, LOW);    
   delay(t);
 
+// Repeat the first pattern (right to left) | පළමු නිරූපණය නැවත කරන්න (දකුණේ සිට වමට)
   digitalWrite(LED12, HIGH);    
   delay(t);                 
   digitalWrite(LED11, HIGH);    
@@ -183,7 +189,7 @@ void loop() {
   digitalWrite(LED1, LOW);    
   delay(t);
 
-
+// Repeat the second pattern (left to right) | දෙවන නිරූපණය නැවත කරන්න (වමේ සිට දකුණට)
   digitalWrite(LED1, HIGH);    
   delay(t);
   digitalWrite(LED2, HIGH);    
@@ -209,6 +215,7 @@ void loop() {
   digitalWrite(LED12, HIGH);  
   delay(t);
 
+// Turn off LEDs left to right again | LED නැවත වමේ සිට දකුණට නිවා දමන්න
   digitalWrite(LED1, LOW);    
   delay(t);
   digitalWrite(LED2, LOW);    
@@ -234,6 +241,7 @@ void loop() {
   digitalWrite(LED12, LOW);    
   delay(t);
 
+// Final repetition of first pattern (right to left) | පළමු නිරූපණය අවසන් වතාවට නැවත කරන්න (දකුණේ සිට වමට)
   digitalWrite(LED12, HIGH);    
   delay(t);                 
   digitalWrite(LED11, HIGH);    
@@ -285,6 +293,7 @@ void loop() {
   digitalWrite(LED1, LOW);    
   delay(t);
 
+// Final repetition of second pattern (left to right) | දෙවන නිරූපණය අවසන් වතාවට නැවත කරන්න (වමේ සිට දකුණට)
   digitalWrite(LED1, HIGH);    
   delay(t); 
   digitalWrite(LED2, HIGH);    
@@ -310,6 +319,7 @@ void loop() {
   digitalWrite(LED12, HIGH);  
   delay(t);
 
+// Turn off all LEDs to complete the cycle | සියලු LED නිවා දමා චක්‍රය සම්පූර්ණ කරන්න
   digitalWrite(LED1, LOW);    
   delay(t);
   digitalWrite(LED2, LOW);    
