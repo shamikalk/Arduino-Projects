@@ -32,17 +32,32 @@ This project is suitable for beginners who want hands-on experience with Arduino
 
 ---
 
-## 📚 Required Arduino Libraries (Mandatory)
+## 📥 Install via Library Manager (Recommended Method)
+
+1. Open **Arduino IDE**
+2. Press **Ctrl + Shift + I** to open **Library Manager**
+3. In the search box, type each library name:
+
+   * AFMotor
+   * NewPing
+   * Servo
+4. Click **Install** if not installed
+5. If already installed, check for **updates** and update them if available
+
+⚠️ If errors appear after installation:
+
+* Close Arduino IDE completely
+* Reopen it and try again
+
+---
+
+## 📥 How to Install Libraries Using ZIP Files
 
 The following libraries **must be installed** in the Arduino IDE before compiling and uploading the code.
 
 * **AFMotor** [[Download](https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library)]
 * **NewPing** [[Download](https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home)]
 * **Servo** [[Download](https://github.com/arduino-libraries/Servo)]
-
----
-
-## 📥 How to Install Libraries Using ZIP Files (Recommended Method)
 
 1. Download each library as a **ZIP file** from the links above
 2. Open **Arduino IDE**
@@ -60,25 +75,6 @@ Once installed, Arduino IDE will show a confirmation message.
 2. Go to **File → Examples**
 3. Scroll down to **Examples from Custom Libraries**
 4. If **AFMotor**, **NewPing**, and **Servo** appear there, the installation was successful
-
----
-
-## 📥 Alternative Method: Install via Library Manager
-
-1. Open **Arduino IDE**
-2. Press **Ctrl + Shift + I** to open **Library Manager**
-3. In the search box, type each library name:
-
-   * AFMotor
-   * NewPing
-   * Servo
-4. Click **Install** if not installed
-5. If already installed, check for **updates** and update them if available
-
-⚠️ If errors appear after installation:
-
-* Close Arduino IDE completely
-* Reopen it and try again
 
 ---
 
