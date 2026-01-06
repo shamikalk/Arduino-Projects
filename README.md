@@ -18,6 +18,7 @@ The table below describes the Arduino source files included in this repository:
 | [`LED Chaser`](./LED%20Chaser) | This repository contains three Arduino LED Chaser programs designed to demonstrate different LED animation patterns using an Arduino UNO. |
 | [`Obstacle Avoiding bot`](./Obstacle%20Avoiding%20Bot) | This project demonstrates a simple Arduino-based obstacle avoiding robot using an ultrasonic sensor, servo motor, and DC motors. |
 | [`RPM Counter`](./RPM%20Counter) | This project demonstrates a simple RPM (Revolutions Per Minute) counter using an Arduino UNO, an IR sensor, a DC motor with a black disc, and a 16x2 I2C LCD display. |
+| [`Automatic Solar Tracker`](./Automatic%20Solar%20Tracker) | This project demonstrates a simple Arduino-based solar tracking system. |
 
 ---
 ## 🛠️ Hardware Requirements
