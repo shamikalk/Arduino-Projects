@@ -18,17 +18,20 @@ This project is suitable for beginners who want hands-on experience with Arduino
 
 ## 🧰 Components Required
 
-* Arduino UNO Board x 1
-* L293D Motor Shield x 1
-* Ultrasonic Sensor (HC-SR04) with mounting bracket x 1
-* Servo Motor x 1
-* DC Geared Motors x2
-* Wheels x 2
-* A small piece of cardboard (for robot structure)
-* Jumper Wires
-* Switch x 1
-* Double Battery Holder with DC Jack & Switch x 1
-* 3.7V Rechargeable Batteries (lithium ion) x 2
+| Component | Quantity |
+|---------|----------|
+| Arduino UNO Board | 1 |
+| L293D Motor Shield | 1 |
+| Ultrasonic Sensor (HC-SR04) with mounting bracket | 1 |
+| Servo Motor | 1 |
+| DC Geared Motors | 2 |
+| Wheels | 2 |
+| A small piece of cardboard | 1 |
+| Jumper Wires | As required |
+| Switch | 1 |
+| Double Battery Holder | 1 |
+| DC Jack | 1 |
+| 3.7V lithium ion Batteries | 2 |
 
 ---
 
