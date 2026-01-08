@@ -17,16 +17,25 @@ solar energy systems, and basic automation concepts.
 
 ## Components Required
 
-- Arduino UNO Board x 1
-- 2 x LDR Sensors x 2
-- 220 Ohm Resistors x 2
-- Servo Motor x 1
-- Mini Solar Panel x 1
-- 3.7V Rechargeable Battery (Li-ion / LiPo) x 1
-- Jumper Wires
-- USB Cable
+| Component | Quantity |
+|---------|----------|
+| Arduino UNO Board | 1 |
+| LDR Sensors | 2 |
+| 220 Ohm Resistors | 2 |
+| Servo Motor | 1 |
+| Mini Solar Panel | 1 |
+| 3.7V (Li-ion / LiPo) Battery | 1 |
+| Jumper Wires | As required |
 
----
+----
+
+## 🖼️ Project Diagram
+
+<p align="center">
+  <img src="./Diagram.jpg" alt="Arduino Obstacle Avoiding Robot" width="800">
+</p> 
+
+----
 
 ## Power System Description
 
