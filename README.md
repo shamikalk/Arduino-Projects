@@ -79,7 +79,7 @@ git clone https://github.com/ShamikaLK/Arduino-Projects.git
     <p><b>Repo Start In:- 01/01/2026&nbsp;&nbsp;|&nbsp;&nbsp;Last Update In:- 01/08/2026</b></p>
 </div>
 
----
+----
 
 <p align="center">
 Thank for using this. Please give this a star and a fork this repo. It would be a great help to me. Don't forget to follow me.
