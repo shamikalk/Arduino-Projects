@@ -20,6 +20,7 @@ The table below describes the Arduino source files included in this repository:
 | [`RPM Counter`](./RPM%20Counter) | This project demonstrates a simple RPM (Revolutions Per Minute) counter using an Arduino UNO, an IR sensor, a DC motor with a black disc, and a 16x2 I2C LCD display. |
 | [`Automatic Solar Tracker`](./Automatic%20Solar%20Tracker) | This project demonstrates a simple Arduino-based solar tracking system. |
 | [`Joystick Maze Controller`](./Joystick%20Maze%20Controller) | This project is ideal for Arduino beginners, STEM projects, and interactive game design learning. |
+| [`Laser Security System`](./Laser%20Security%20Alarm) | This project is ideal for beginners, school projects, and basic electronics learning using Arduino. |
 
 ---
 ## 🛠️ Hardware Requirements
