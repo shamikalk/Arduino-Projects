@@ -21,6 +21,7 @@ The table below describes the Arduino source files included in this repository:
 | [`Automatic Solar Tracker`](./Automatic%20Solar%20Tracker) | This project demonstrates a simple Arduino-based solar tracking system. |
 | [`Joystick Maze Controller`](./Joystick%20Maze%20Controller) | This project is ideal for Arduino beginners, STEM projects, and interactive game design learning. |
 | [`Laser Security System`](./Laser%20Security%20Alarm) | This project is ideal for beginners, school projects, and basic electronics learning using Arduino. |
+| [`Automatic Water Level Alarm`](./Automatic%20Water%20Level%20Alarm) | This project is an Automatic Water Level Alarm System. |
 
 ---
 ## 🛠️ Hardware Requirements
@@ -77,7 +78,7 @@ git clone https://github.com/ShamikaLK/Arduino-Projects.git
 ---
 
 <div align="center">
-    <p><b>Repo Start In:- 01/01/2026&nbsp;&nbsp;|&nbsp;&nbsp;Last Update In:- 01/08/2026</b></p>
+    <p><b>Repo Start In:- 01/01/2026&nbsp;&nbsp;|&nbsp;&nbsp;Last Update In:- 01/10/2026</b></p>
 </div>
 
 ----
