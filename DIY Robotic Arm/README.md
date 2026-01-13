@@ -1,7 +1,8 @@
 # 🤖 DIY Robotic Arm  
 ### Interactive Robotic Arm using Arduino UNO, Servo Motors & Joystick
 
-Precise object manipulation can be challenging without an efficient control system.  
+Precise object manipulation can be challenging without an efficient control system.
+  
 **DIY AutoArm** is a joystick-controlled robotic arm that provides a smooth and intuitive way to control movement using servo motors. This project is ideal for beginners and hobbyists who want to learn the fundamentals of **automation, robotics, and Arduino-based control systems**.
 
 ---
