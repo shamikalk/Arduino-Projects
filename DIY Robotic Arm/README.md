@@ -22,9 +22,11 @@ Precise object manipulation can be challenging without an efficient control syst
 | Arduino UNO Board | 1 | 
 | Servo Motors | 2 | 
 | Joystick Module | 1 | 
-| Ice Cream Sticks (for arm structure)  
-| Jumper Wires  
-| Double Battery Holder with DC Jack & Switch | 1 | 
+| Ice Cream Sticks | 
+| Jumper Wires |  
+| Double Battery Holder | 1 |
+| DC Jack | 1 |
+| Switch | 1 | 
 | 3.7V Rechargeable Batteries | 2 | 
 
 ---
