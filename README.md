@@ -26,6 +26,7 @@ The table below describes the Arduino source files included in this repository:
 | [`Automatic Cloth Drying Stand`](./Automatic%20Cloth%20Drying%20Stand) | This project demonstrates an Automatic Clothes Drying Stand System using Arduino UNO, a Raindrop Sensor, and a Servo Motor.  |
 | [`DIY Robotic Arm`](./DIY%20Robotic%20Arm) | Precise object manipulation can be challenging without an efficient control system. |
 | [`Smart Car Parking Assister`](./Smart%20Car%20Parking%20Assister) | The system measures the distance between the vehicle and obstacles behind it. |
+| [`Dino Game `](./Dino%20Game ) | This is a simple obstacle avoidance game inspired by the classic Chrome Dino game, running on an Arduino with a 16x2 character LCD display using an I2C interface. |
 
 ---
 ## 🛠️ Hardware Requirements
@@ -83,7 +84,7 @@ git clone https://github.com/ShamikaLK/Arduino-Projects.git
 ---
 
 <div align="center">
-    <p><b>Repo Start In:- 01/01/2026&nbsp;&nbsp;|&nbsp;&nbsp;Last Update In:- 01/15/2026</b></p>
+    <p><b>Repo Start In:- 01/01/2026&nbsp;&nbsp;|&nbsp;&nbsp;Last Update In:- 01/19/2026</b></p>
 </div>
 
 ----
