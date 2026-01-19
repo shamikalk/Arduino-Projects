@@ -1,6 +1,7 @@
 # Arduino UNO Dino Game 🌵🦖
 
-This project demonstrates how to interface a **16x2 LCD Display** with an **Arduino UNO** using an **I2C module**, powered by a **rechargeable battery system**.  
+This project demonstrates how to create a simple obstacle avoidance game inspired by the classic Chrome Dino game, running on an **Arduino UNO** with a **16x2 character LCD display** using an **I2C interface**, powered by a **rechargeable battery** system.
+
 Using I2C reduces wiring complexity and makes the project clean and efficient 🔧✨
 
 ---
