@@ -53,7 +53,7 @@ You can use any of these free Bluetooth controller apps from Google Play Store:
     - Button and joystick modes
     - Easy to configure
 ### 🔽 Download Links
-Download Bluetooth RC Controller [View](https://roboarmypublicfiles.s3.ap-south-1.amazonaws.com/code/Bluetooth+RC+Controller.apk)
+Download Bluetooth RC Controller APK [View](https://roboarmypublicfiles.s3.ap-south-1.amazonaws.com/code/Bluetooth+RC+Controller.apk)
 
 ## 📚 Required Arduino Libraries (Very Important ⚠️)
 
